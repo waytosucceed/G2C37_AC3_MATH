@@ -2,35 +2,35 @@
   
   {
     "questionNo": 6,
-    "question": "Arya visited the food court and saw groups of ice creams. Fill in the blank boxes to find how many nuggets Arya saw:",
+    "question": "Arya organised eggs in the tray. Help Arya by filling in the blank boxes:",
     "options":["","groups of",""],
     "answers": ["3","groups of","3"],
     "secondImg":"./images/16.jpg"
   },
   {
     "questionNo": 7,
-    "question": "At the bakery, Arya discovered groups of cupcakes. Fill in the blank boxes to find how many cupcakes Arya found:",
+    "question": "Arya and her mother arranged chocolate bars on the shelves. They need your  help to fill in the blank boxes:",
     "options":["","groups of",""],
     "answers": ["4","groups of","2"],
     "secondImg":"./images/17.jpg"
   },
   {
     "questionNo": 8,
-    "question": "In the pet store, Arya saw groups of fishes in fish tanks. Fill in the blank boxes to find how many fish Arya noticed:",
+    "question": "They were arranging toothpastes in the daily essentials section of the store. Can you help them by filling in the answer in the blank boxes?",
     "options":["","groups of",""],
     "answers": ["5","groups of","7"],
     "secondImg":"./images/18.jpg"
   },
   {
     "questionNo": 9,
-    "question": "At the flower shop, Arya found groups of flower bouquets. Fill in the blank boxes to find how many bouquets Arya saw:",
+    "question": "Arya’s mother placed carrots in the baskets. Help her mother by filling in the blank boxes:",
     "options":["","groups of",""],
     "answers": ["4","groups of","6"],
     "secondImg":"./images/19.jpg"
   },
   {
     "questionNo": 10,
-    "question": "At the end of her day, Arya saw groups of T-shirts. Fill in the blank boxes to find how many T-shirts Arya noticed:",
+    "question": "Arya put milk cartons in the refrigerator. Help Arya by filling in the blank boxes:",
     "options":["","groups of",""],
     "answers": ["2","groups of","8"],
     "secondImg":"./images/20.jpg"
